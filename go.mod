@@ -1,3 +1,3 @@
-module github.com/Kyadmitry/protos
+module protos
 
 go 1.17
